@@ -1,4 +1,4 @@
-**Quantum mechanics project**
+# Quantum mechanics project 
 I created an animation showing the time evolution of a wave function. 
 Three cases were considered:
 * Stationary state of arbitrary order in 2D infinite potential well ([2dwell.ipynb](2dwell.ipynb))
